@@ -17,7 +17,6 @@ def get_args():
 
 def main():
     args = get_args()
-
     #sp = spotipy.Spotify(auth_manager=SpotifyOAuth(scope=scope))
     token = util.prompt_for_user_token(
         credentials.KEANU_USERNAME,
