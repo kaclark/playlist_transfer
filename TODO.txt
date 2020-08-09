@@ -1,2 +1,5 @@
+search : input all 3 feilds, extract song name, match items to all 3 inputs then output id for song
+
+
 Write script to convert songs into track ids
 Write bash script that submits updates to the spotify playlist

@@ -19,7 +19,7 @@ for x in range(len(filter2)):
     songs.append([song_name, artist_name, album_name])
 search_list = []
 for song in songs:
-    key = song[0] + " " + song[1] + " " + song[2]
+    key = song[0] + ":" + song[1] + ":" + song[2]
     print(key)
     search_list.append(key)
 #print(json.dumps(results, indent=4))
