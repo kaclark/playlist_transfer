@@ -1,2 +1,8 @@
-Update search to get the right track id
+Automate pasting url from landing page into terminal when prompted
+
+Work on youtube side of code
+
+Transfer playlists from youtube to spotify and spotify to youtube
+
+Put on server/cloud and check for updates to playlists periodically. If updated, run transfer
 
