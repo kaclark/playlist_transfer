@@ -1,0 +1,2 @@
+Write script to convert songs into track ids
+Write bash script that submits updates to the spotify playlist
